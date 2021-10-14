@@ -1,0 +1,540 @@
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.exe
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.deps.json
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.json
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ref\MapWebApi.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.xml
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\scopedcss\bundle\MapWebApi.styles.css
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CopyComplete
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\ref\MapWebApi.dll
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.pdb
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.genruntimeconfig.cache
+C:\Users\Alex\source\repos\MapWebApi\MapWebApi\bin\Debug\net5.0\appsettings.json
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\appsettings.json
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.exe
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.deps.json
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.json
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.dev.json
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ref\MapWebApi.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Humanizer.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csprojAssemblyReference.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfoInputs.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfo.cs
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CoreCompileInputs.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.Manifest.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.xml
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\scopedcss\bundle\MapWebApi.styles.css
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.RazorTargetAssemblyInfo.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CopyComplete
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\ref\MapWebApi.dll
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.pdb
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.genruntimeconfig.cache
+E:\Учеба\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\appsettings.json
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.exe
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.deps.json
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.json
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.dev.json
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ref\MapWebApi.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Humanizer.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfoInputs.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfo.cs
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CoreCompileInputs.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.Manifest.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.xml
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\scopedcss\bundle\MapWebApi.styles.css
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.RazorTargetAssemblyInfo.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CopyComplete
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\ref\MapWebApi.dll
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.pdb
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.genruntimeconfig.cache
+E:\Education\4 course 2 term\Диплом\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.AssemblyReference.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\appsettings.json
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.exe
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.deps.json
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.json
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.runtimeconfig.dev.json
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ref\MapWebApi.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\MapWebApi.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Humanizer.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.AssemblyReference.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfoInputs.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.AssemblyInfo.cs
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CoreCompileInputs.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.Manifest.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\staticwebassets\MapWebApi.StaticWebAssets.xml
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\scopedcss\bundle\MapWebApi.styles.css
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.RazorTargetAssemblyInfo.cache
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.csproj.CopyComplete
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\ref\MapWebApi.dll
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.pdb
+E:\Education\4 course 2 term\Diploma\Backend\MapWebApi\MapWebApi\obj\Debug\net5.0\MapWebApi.genruntimeconfig.cache
